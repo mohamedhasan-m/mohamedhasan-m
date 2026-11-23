@@ -35,8 +35,6 @@ public:
 
         "React",
 
-        "Docker",
-
         "Git",
 
         "C++"
@@ -76,7 +74,7 @@ int main(){
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,typescript"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,javascript,typescript"/>
 
 </p>
 
@@ -86,7 +84,7 @@ int main(){
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite"/>
 
 </p>
 
@@ -96,7 +94,7 @@ int main(){
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=java,springboot,nodejs"/>
 
 </p>
 
@@ -106,7 +104,7 @@ int main(){
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
 
 </p>
 
@@ -116,7 +114,7 @@ int main(){
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,linux"/>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,linux"/>
 
 </p>
 
@@ -126,21 +124,7 @@ int main(){
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman,githubactions"/>
-
-</p>
-
----
-
-## 🤖 AI & Productivity
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-<img src="https://img.shields.io/badge/Gemini-AI-4285F4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenAI-GPT-412991?style=for-the-badge&logo=openai"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman"/>
 
 </p>
 
