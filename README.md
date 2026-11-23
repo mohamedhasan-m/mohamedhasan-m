@@ -94,7 +94,7 @@ int main(){
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,springboot,nodejs"/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs"/>
 
 </p>
 
